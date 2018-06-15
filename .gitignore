@@ -1,1 +1,6 @@
-*.pyc
+.settings
+.DS_Store
+.classpath
+.project
+*.log
+target/
