@@ -9,3 +9,6 @@ test:
 	
 runlocal:
 	mvn spring-boot:run
+
+debuglocal:
+	LOG_LEVEL=DEBUG mvn spring-boot:run 
